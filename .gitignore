@@ -8,6 +8,3 @@ js/
 .DS_Store
 Icon
 Icon?
-
-# Compiled assets
-*.css
