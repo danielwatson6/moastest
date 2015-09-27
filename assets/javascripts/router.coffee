@@ -4,7 +4,6 @@ class Moas.Router extends Backbone.Router
     ''                 : 'homeView'
     'committees/:name' : 'committeeView'
     'about'            : 'staticView'
-    'hotel'            : 'staticView'
     'schedule'         : 'staticView'
     'dates'            : 'staticView'
     'preparation'      : 'staticView'
